@@ -1,0 +1,25 @@
+[{
+    "id":1,
+    "name":"yoni",
+    "phone":"0527688632",
+    "email":"02156@gmail.com",
+    "role":"manager",
+    "class":"production",
+    "date":"12-03-2024"
+},{
+    "id":2,
+    "name":"shlomo",
+    "phone":"0527688632",
+    "email":"02156@gmail.com",
+    "role":"worker",
+    "class":"production",
+    "date":"12-03-2026"
+},{
+    "id":3,
+    "name":"elchanan",
+    "phone":"0527688632",
+    "email":"02156@gmail.com",
+    "role":"worker",
+    "class":"production",
+    "date":"12-03-2025"
+}]

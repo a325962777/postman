@@ -1,0 +1,23 @@
+[{
+    "firstName":"rut",
+    "lastName":"cohen",
+     "birthDay":"11-12-2004",
+     "age":30,
+     "status":"yes"
+
+},{
+    "firstName":"shoshi",
+    "lastName":"cohen",
+     "birthDay":"11-12-2003",
+     "age":30,
+     "status":"yes"
+
+},{
+    "firstName":"rachel",
+    "lastName":"cohen",
+     "birthDay":"11-12-2005",
+     "age":30,
+     "status":"yes"
+
+}
+]

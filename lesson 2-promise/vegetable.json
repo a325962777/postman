@@ -1,0 +1,18 @@
+[{
+
+    "name" :"tomato",
+    "price":20
+ },
+ {
+     "name" :"potato",
+     "price":20
+  },
+  {
+     "name" :"orange",
+     "price":20
+  },
+  {
+     "name" :"banana",
+     "price":20
+  }
+ ]

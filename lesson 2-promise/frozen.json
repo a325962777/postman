@@ -1,0 +1,19 @@
+
+[{
+
+   "name" :"frozen tutim",
+   "price":20
+},
+{
+    "name" :"frozen banana",
+    "price":20
+ },
+ {
+    "name" :"chicken",
+    "price":20
+ },
+ {
+    "name" :"schnitzel",
+    "price":20
+ }
+]
